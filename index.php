@@ -199,8 +199,8 @@ echo ViewChars::monkey();
     	text that is written or pasted into the box above.</p>
     <h2>Source Code</h2>
     <p>As this tools has received some attention on <a href="https://www.soscisurvey.de/tools/view-chars.php">soscisurvey.de</a>,
-    	we chose to make the source code available on <a href="https://github.com/BurninLeo/see-non-printable-characters">GitHub</a>.</p>
-
+        we chose to make the source code available on <a href="https://github.com/BurninLeo/see-non-printable-characters">GitHub</a>. This is a <strong>Dockerized, self-hosted fork</strong> of the original <a href="https://github.com/BurninLeo/see-non-printable-characters" target="_blank" rel="noopener">see-non-printable-characters</a> project available on <a href="https://github.com/tiagomiguelcs/snpc" target="_blank">GitHub</a>.
+</p>
 </div>
 </body>
 </html>

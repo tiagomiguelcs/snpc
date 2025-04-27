@@ -6,7 +6,9 @@ This project is a Dockerized fork of [BurninLeo/see-non-printable-characters](ht
 
 The goal of this fork is to make the project easily self-hostable on a local home server using Docker, without requiring any additional setup.
 
-## To self-host SNPC, run: 
+## Installation and Usage
+
+To self-host SNPC, run: 
 
 `./deploy.sh`
 
